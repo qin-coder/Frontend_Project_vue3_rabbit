@@ -1,6 +1,9 @@
 # Vue3-rabbit
 
-This template should help get you started developing with Vue 3 in Vite.
+The project realizes the main business functions of the e-commerce platform, e-commerce home page, primary classification, secondary classification, product details, shopping cart, settlement, payment, personal center, order management, order details. 
+The project adopts front-end and back-end separation mode, the front-end uses the VUE3.0 technology stack to build, their own encapsulated UI component library, access to the Alipay payment business (virtual), and front-end SKU solutions. 
+The back-end data uses the interface provided by the project organization.
+
 
 ## Recommended IDE Setup
 
