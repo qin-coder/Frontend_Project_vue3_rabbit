@@ -17,7 +17,7 @@ A modern e-commerce platform built with Vue 3 + Vite + Pinia + Axios, featuring 
 🧪 Dev-friendly configuration with VS Code, Prettier, and more
 
 📁 Project Structure
-
+```bash
 .
 ├── .vscode/                  # VS Code settings and extensions
 ├── public/                   # Static public assets
@@ -62,7 +62,7 @@ A modern e-commerce platform built with Vue 3 + Vite + Pinia + Axios, featuring 
 ├── .prettierrc.json          # Prettier formatting config
 └── vite.config.ts            # Vite project config
 
-
+```
 📦 Getting Started
 
 
