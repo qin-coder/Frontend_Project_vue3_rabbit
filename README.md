@@ -88,6 +88,19 @@ npm run dev
 | 💰 Payments   | Simulated payment interface              |
 | 👤 User Area  | Login/logout and personal dashboard      |
 
+## 🚀 Features Overview
+
+| Module        | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| 🏠 **Homepage** (`views/home`) | Carousel for promotions, product categories, new arrivals, bestseller list, fixed sidebar recommendations |
+| 📚 **Category Page** (`views/Category`) | Multi-level product categories, breadcrumb navigation, subcategory product display |
+| 📦 **Product Detail** (`views/detail`) | Image carousel, SKU selection, quantity input, add to cart, promotions and services |
+| 🛒 **Shopping Cart** (`views/Cartlist`) | Item list with quantity adjustments, select all/single item, delete, total amount calc |
+| ✅ **Checkout** (`views/checkout`) | Address management, delivery time and payment method selection, cost summary, order submission |
+| 💰 **Payment** (`views/Pay`) | 30-min countdown, Alipay/WeChat/Bank options, payment callback processing |
+| 👤 **User Area** (`views/Member`) | Login/logout, user info display, personal dashboard |
+| 📱 **Responsive Design** | Mobile-first layout, adapts gracefully to desktop/tablet/mobile screens |
+
 
 ## 🛠 Tech Stack
 
