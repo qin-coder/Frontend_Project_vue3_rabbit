@@ -76,21 +76,18 @@ npm run dev
 
 
 
-🧪 Features Overview
-Module	Description
-🏠 Homepage	Carousel, new arrivals, popular picks
+## 🧪 Features Overview
 
-📚 Category	Browse products by categories/subcategories
+| Module       | Description                              |
+|--------------|------------------------------------------|
+| 🏠 Homepage   | Carousel, new arrivals, popular picks     |
+| 📚 Category   | Browse products by categories/subcategories |
+| 📦 Product    | View detailed product info               |
+| 🛒 Cart       | Add/remove items, proceed to checkout    |
+| ✅ Orders     | Order summary and status                 |
+| 💰 Payments   | Simulated payment interface              |
+| 👤 User Area  | Login/logout and personal dashboard      |
 
-📦 Product	View detailed product info
-
-🛒 Cart	Add/remove items, proceed to checkout
-
-✅ Orders	Order summary and status
-
-💰 Payments	Simulated payment interface
-
-👤 User Area	Login/logout and personal dashboard
 
 ## 🛠 Tech Stack
 
