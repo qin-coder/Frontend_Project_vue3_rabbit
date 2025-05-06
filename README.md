@@ -91,11 +91,12 @@ npm run dev
 
 ## 🛠 Tech Stack
 
-- Vue 3
-- Vite
-- Pinia
-- Axios
-- SCSS
-- Vue Router
-- ESLint + Prettier
+- **Frontend Framework**: Vue 3  
+- **UI Component Library**: Element Plus  
+- **State Management**: Pinia  
+- **HTTP Client**: Axios  
+- **Build Tool**: Vite  
+- **Routing**: Vue Router 4  
+- **Code Formatter**: Prettier  
+- **Development Environment**: VS Code  
 
