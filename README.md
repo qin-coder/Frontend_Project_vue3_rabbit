@@ -66,9 +66,6 @@ A modern e-commerce platform built with Vue 3 + Vite + Pinia + Axios, featuring 
 📦 Getting Started
 
 
-# Clone the repo
-git clone https://github.com/yourname/vue-ecommerce.git
-cd vue-ecommerce
 
 # Install dependencies
 npm install
@@ -82,11 +79,17 @@ npm run dev
 🧪 Features Overview
 Module	Description
 🏠 Homepage	Carousel, new arrivals, popular picks
+
 📚 Category	Browse products by categories/subcategories
+
 📦 Product	View detailed product info
+
 🛒 Cart	Add/remove items, proceed to checkout
+
 ✅ Orders	Order summary and status
+
 💰 Payments	Simulated payment interface
+
 👤 User Area	Login/logout and personal dashboard
 
 🛠 Tech Stack
