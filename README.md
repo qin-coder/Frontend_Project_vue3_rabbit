@@ -92,17 +92,13 @@ Module	Description
 
 👤 User Area	Login/logout and personal dashboard
 
-🛠 Tech Stack
-Vue 3
+## 🛠 Tech Stack
 
-Vite
+- Vue 3
+- Vite
+- Pinia
+- Axios
+- SCSS
+- Vue Router
+- ESLint + Prettier
 
-Pinia
-
-Axios
-
-SCSS
-
-Vue Router
-
-ESLint + Prettier
